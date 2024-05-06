@@ -20,7 +20,7 @@ public class JurosSimplesView extends Application
     public JurosSimplesView() {
         this.loader = new FXMLLoader();
         try {
-            this.url = new File("imc.fxml").toURI().toURL();
+            this.url = new File("juros.fxml").toURI().toURL();
         } catch (Exception e) {
             System.out.println("Erro na carga do FXML:" + e);
         }
