@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=JurosSimples
+comment0.text=\r\n\ Calcula\ o\ juros\ simples\r\n\ \r\n\ @author\ matheusteles\r\n\ @date\ 06/05/2024\r\n
+comment1.params=
+comment1.target=JurosSimples()
+comment2.params=capital\ taxa\ tempo
+comment2.target=JurosSimples(double,\ double,\ double)
+comment2.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ JurosSimples\r\n
+comment3.params=
+comment3.target=double\ calcular()
+comment3.text=\r\n\ Calcula\ o\ Juros\ Simples\r\n\ \r\n\ @return\ \ \ \ \ o\ valor\ do\ Juros,\ dado\ por\:\ J\ \=\ (C\ *\ i\ *\ t)/100\r\n
+comment4.params=
+comment4.target=java.lang.String\ interpretar()
+numComments=5

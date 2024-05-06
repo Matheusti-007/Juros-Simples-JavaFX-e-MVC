@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=JurosSimplesController
+comment0.text=\r\n\ Controla\ os\ dados\ do\ modelo\ e\ a\ intera\u00E7\u00E3o\ com\ a\ interface\ (vis\u00E3o)\r\n\ \r\n\ @author\ matheusteles\ \r\n\ @date\ 06/05/2024\r\n
+comment1.params=
+comment1.target=JurosSimplesController()
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ JurosSimplesController\r\n
+comment2.params=
+comment2.target=void\ iniciar()
+comment3.params=e
+comment3.target=void\ botaoCalcularClicado(javafx.event.Event)
+comment4.params=e
+comment4.target=void\ botaoLimparClicado(javafx.event.Event)
+numComments=5

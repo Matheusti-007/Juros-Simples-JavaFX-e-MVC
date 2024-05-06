@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=JurosSimplesView
+comment0.text=\r\n\ Interface\ Gr\u00E1fica\ (GUI)\ da\ Calculadora\ de\ Juros\ Simples\r\n\ \r\n\ @author\ matheusteles\r\n\ @version\ 06/05/2024\r\n
+comment1.params=
+comment1.target=JurosSimplesView()
+comment2.params=controller
+comment2.target=void\ setController(JurosSimplesController)
+comment3.params=primaryStage
+comment3.target=void\ start(javafx.stage.Stage)
+numComments=4
