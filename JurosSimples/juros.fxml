@@ -21,7 +21,7 @@
       <Button id="buttonLimpar" layoutX="147.0" layoutY="130.0" mnemonicParsing="false" onAction="#botaoLimparClicado" text="Limpar" />
       <Label layoutX="68.0" layoutY="183.0" text="Seu juros:" />
       <Label id="labelResultado" fx:id="labelResultado" layoutX="144.0" layoutY="183.0" text="INFORME O CAPITAL  TAXA E O TEMPO" />
-      <TextField id="textFieldAltura" fx:id="textFieldTempo" layoutX="402.0" layoutY="95.0" promptText="Ano" />
+      <TextField id="textFieldTempo" fx:id="textFieldTempo" layoutX="402.0" layoutY="95.0" promptText="Ano" />
       <Label layoutX="402.0" layoutY="78.0" text="Tempo" />
    </children>
 </Pane>
