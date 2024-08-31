@@ -1,4 +1,1 @@
-Calculadora de juros simples usando JavaFX e arquitetura MVC 
-
-Desenvolvido por: Matheus Teles
-Data: 06/05/2024
+Small implementation of JavaFX and MVC architecture in a program that performs simple interest calculations
